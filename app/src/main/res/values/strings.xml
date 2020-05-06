@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CIDM4385</string>
+    <string name="weather_hint">Enter your location…</string>
+    <string name="name_of_city">name of city</string>
+</resources>
